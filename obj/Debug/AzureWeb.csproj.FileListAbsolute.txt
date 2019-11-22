@@ -1,0 +1,6 @@
+D:\New 16.02.2019\B\VS_Projects\AzureWeb\AzureWeb\bin\AzureWeb.dll.config
+D:\New 16.02.2019\B\VS_Projects\AzureWeb\AzureWeb\bin\AzureWeb.dll
+D:\New 16.02.2019\B\VS_Projects\AzureWeb\AzureWeb\bin\AzureWeb.pdb
+D:\New 16.02.2019\B\VS_Projects\AzureWeb\AzureWeb\obj\Debug\AzureWeb.csprojResolveAssemblyReference.cache
+D:\New 16.02.2019\B\VS_Projects\AzureWeb\AzureWeb\obj\Debug\AzureWeb.dll
+D:\New 16.02.2019\B\VS_Projects\AzureWeb\AzureWeb\obj\Debug\AzureWeb.pdb
